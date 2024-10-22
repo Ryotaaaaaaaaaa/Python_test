@@ -8,7 +8,7 @@ from setuptools.depends import maybe_close
 
 def print_hi(name):
     # スクリプトをデバッグするには以下のコード行でブレークポイントを使用してください。
-    print(f'Hi, {name}')  # ⌘F8を押すとブレークポイントを切り替えます。
+    print(f'Hi, {name}!!')  # ⌘F8を押すとブレークポイントを切り替えます。
 
 
 # ガター内の緑色のボタンを押すとスクリプトを実行します。
